@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/u
+cd /tmp
